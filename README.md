@@ -4,6 +4,8 @@ This rubric outlines the grading criteria for the final capstone project. Each a
 
 This rubric represents **70% of the total evaluation**, while the remaining **30% will be determined by the Evaluation Committee**.
 
+To successfully pass this bootcamp, each participant must achieve at least **70% of the total score**.
+
 | **Criteria**            | **0**                      | **1**                                | **2**                                   | **3**                                     | **4**                                      | **5**                                      |
 |--------------------------|----------------------------|--------------------------------------|----------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
 | **Readme File**          | Not implemented           | Minimal details, lacks clarity       | Basic details, poorly formatted        | Adequate details, minor clarity issues   | Well-detailed, minor formatting issues   | Comprehensive, well-organized, error-free |
